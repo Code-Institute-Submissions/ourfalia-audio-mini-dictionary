@@ -144,34 +144,63 @@ function myFunction(event) {
         playAudio(71);
      }else if (x == "umbrella"){
         playAudio(72);
-     }
-     else if (x == "black"){
+     }else if (x == "black"){
         playAudio(73);
-     }
-     else if (x == "blue"){
+     }else if (x == "blue"){
         playAudio(74);
-     }
-     else if (x == "gray"){
+     }else if (x == "gray"){
         playAudio(75);
-     }
-     else if (x == "green"){
+     }else if (x == "green"){
         playAudio(76);
-     }
-     else if (x == "orange"){
+     }else if (x == "orange"){
         playAudio(77);
-     }
-     else if (x == "purple"){
+     }else if (x == "purple"){
         playAudio(78);
-     }
-     else if (x == "red"){
+     }else if (x == "red"){
         playAudio(79);
-     }
-     else if (x == "white"){
+     }else if (x == "white"){
         playAudio(80);
-     }
-     else if (x == "yellow"){
+     }else if (x == "yellow"){
         playAudio(81);
-     }
+     }else if (x == "monday"){
+        playAudio(82);
+     }else if (x == "tuesday"){
+        playAudio(83);
+     }else if (x == "wednesday"){
+        playAudio(84);
+     }else if (x == "thursday"){
+        playAudio(85);
+     }else if (x == "friday"){
+        playAudio(86);
+     }else if (x == "saturday"){
+        playAudio(87);
+     }else if (x == "sunday"){
+        playAudio(88);
+     }else if (x == "january"){
+        playAudio(89);
+     }else if (x == "february"){
+        playAudio(90);
+     }else if (x == "march"){
+        playAudio(91);
+     }else if (x == "april"){
+        playAudio(92);
+     }else if (x == "may"){
+        playAudio(93);
+     }else if (x == "june"){
+        playAudio(94);
+     }else if (x == "july"){
+        playAudio(95);
+     }else if (x == "august"){
+        playAudio(96);
+     }else if (x == "september"){
+        playAudio(97);
+     }else if (x == "october"){
+        playAudio(98);
+     }else if (x == "november"){
+        playAudio(99);
+     }else if (x == "december"){
+        playAudio(100);
+     }    
 }
 function playAudio(z) {
      document.getElementById(z).play();
