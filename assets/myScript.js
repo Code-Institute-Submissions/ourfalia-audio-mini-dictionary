@@ -398,7 +398,43 @@ function myFunction(event) {
         playAudio(198);
      }else if (x == "write"){
         playAudio(199);
-     }        
+     }else if (x == "airport"){
+        playAudio(200);
+     }else if (x == "beach"){
+        playAudio(201);
+     }else if (x == "festival"){
+        playAudio(202);
+     }else if (x == "galery"){
+        playAudio(203);
+     }else if (x == "hotel"){
+        playAudio(204);
+     }else if (x == "island"){
+        playAudio(205);
+     }else if (x == "map"){
+        playAudio(206);
+     }else if (x == "mountains"){
+        playAudio(207);
+     }else if (x == "museum"){
+        playAudio(208);
+     }else if (x == "plane"){
+        playAudio(209);
+     }else if (x == "reservation"){
+        playAudio(210);
+     }else if (x == "restaurant"){
+        playAudio(211);
+     }else if (x == "ship"){
+        playAudio(212);
+     }else if (x == "suitcase"){
+        playAudio(213);
+     }else if (x == "swimming-pool"){
+        playAudio(214);
+     }else if (x == "taxi"){
+        playAudio(215);
+     }else if (x == "ticket"){
+        playAudio(216);
+     }else if (x == "train"){
+        playAudio(217);
+     }          
 }
 function playAudio(z) {
      document.getElementById(z).play();
