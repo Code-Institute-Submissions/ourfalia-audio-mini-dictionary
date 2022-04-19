@@ -298,7 +298,73 @@ function myFunction(event) {
         playAudio(148);
      }else if (x == "waterfall"){
         playAudio(149);
-     }          
+     }else if (x == "one"){
+        playAudio(150);
+     }else if (x == "two"){
+        playAudio(151);
+     }else if (x == "three"){
+        playAudio(152);
+     }else if (x == "four"){
+        playAudio(153);
+     }else if (x == "five"){
+        playAudio(154);
+     }else if (x == "six"){
+        playAudio(155);
+     }else if (x == "seven"){
+        playAudio(156);
+     }else if (x == "eight"){
+        playAudio(157);
+     }else if (x == "nine"){
+        playAudio(158);
+     }else if (x == "ten"){
+        playAudio(159);
+     }else if (x == "eleven"){
+        playAudio(160);
+     }else if (x == "twelve"){
+        playAudio(161);
+     }else if (x == "thirteen"){
+        playAudio(162);
+     }else if (x == "fourteen"){
+        playAudio(163);
+     }else if (x == "fifteen"){
+        playAudio(164);
+     }else if (x == "sixteen"){
+        playAudio(165);
+     }else if (x == "seventeen"){
+        playAudio(166);
+     }else if (x == "eighteen"){
+        playAudio(167);
+     }else if (x == "nineteen"){
+        playAudio(168);
+     }else if (x == "twenty"){
+        playAudio(169);
+     }else if (x == "twenty-one"){
+        playAudio(170);
+     }else if (x == "twenty-two"){
+        playAudio(171);
+     }else if (x == "thirty"){
+        playAudio(172);
+     }else if (x == "fourty"){
+        playAudio(173);
+     }else if (x == "fifty"){
+        playAudio(174);
+     }else if (x == "sixty"){
+        playAudio(175);
+     }else if (x == "seventy"){
+        playAudio(176);
+     }else if (x == "eighty"){
+        playAudio(177);
+     }else if (x == "ninety"){
+        playAudio(178);
+     }else if (x == "hundred"){
+        playAudio(179);
+     }else if (x == "hundred-and-one"){
+        playAudio(180);
+     }else if (x == "thousand"){
+        playAudio(181);
+     }else if (x == "million"){
+        playAudio(182);
+     }        
 }
 function playAudio(z) {
      document.getElementById(z).play();
