@@ -145,6 +145,33 @@ function myFunction(event) {
      }else if (x == "umbrella"){
         playAudio(72);
      }
+     else if (x == "black"){
+        playAudio(73);
+     }
+     else if (x == "blue"){
+        playAudio(74);
+     }
+     else if (x == "gray"){
+        playAudio(75);
+     }
+     else if (x == "green"){
+        playAudio(76);
+     }
+     else if (x == "orange"){
+        playAudio(77);
+     }
+     else if (x == "purple"){
+        playAudio(78);
+     }
+     else if (x == "red"){
+        playAudio(79);
+     }
+     else if (x == "white"){
+        playAudio(80);
+     }
+     else if (x == "yellow"){
+        playAudio(81);
+     }
 }
 function playAudio(z) {
      document.getElementById(z).play();
