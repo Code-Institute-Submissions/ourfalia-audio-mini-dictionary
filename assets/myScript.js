@@ -244,6 +244,46 @@ function myFunction(event) {
         playAudio(121);
      }else if (x == "tomato"){
         playAudio(122);
+     }else if (x == "ache"){
+        playAudio(123);
+     }else if (x == "allergy"){
+        playAudio(124);
+     }else if (x == "ambulance"){
+        playAudio(125);
+     }else if (x == "bandage"){
+        playAudio(126);
+     }else if (x == "blood"){
+        playAudio(127);
+     }else if (x == "clinic"){
+        playAudio(128);
+     }else if (x == "cold"){
+        playAudio(129);
+     }else if (x == "cough"){
+        playAudio(130);
+     }else if (x == "cut"){
+        playAudio(131);
+     }else if (x == "dizziness"){
+        playAudio(132);
+     }else if (x == "hospital"){
+        playAudio(133);
+     }else if (x == "medicine"){
+        playAudio(134);
+     }else if (x == "patient"){
+        playAudio(135);
+     }else if (x == "pharmacy"){
+        playAudio(136);
+     }else if (x == "tempreture"){
+        playAudio(137);
+     }else if (x == "tomato"){
+        playAudio(138);
+     }else if (x == "tomato"){
+        playAudio(139);
+     }else if (x == "tomato"){
+        playAudio(140);
+     }else if (x == "tomato"){
+        playAudio(141);
+     }else if (x == "tomato"){
+        playAudio(142);
      }              
 }
 function playAudio(z) {
