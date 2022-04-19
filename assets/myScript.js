@@ -274,17 +274,31 @@ function myFunction(event) {
         playAudio(136);
      }else if (x == "tempreture"){
         playAudio(137);
-     }else if (x == "tomato"){
+     }else if (x == "desert"){
         playAudio(138);
-     }else if (x == "tomato"){
+     }else if (x == "flower"){
         playAudio(139);
-     }else if (x == "tomato"){
+     }else if (x == "hill"){
         playAudio(140);
-     }else if (x == "tomato"){
+     }else if (x == "lake"){
         playAudio(141);
-     }else if (x == "tomato"){
+     }else if (x == "mountain"){
         playAudio(142);
-     }              
+     }else if (x == "river"){
+        playAudio(143);
+     }else if (x == "rock"){
+        playAudio(144);
+     }else if (x == "sand"){
+        playAudio(145);
+     }else if (x == "sea"){
+        playAudio(146);
+     }else if (x == "valley"){
+        playAudio(147);
+     }else if (x == "volcano"){
+        playAudio(148);
+     }else if (x == "waterfall"){
+        playAudio(149);
+     }          
 }
 function playAudio(z) {
      document.getElementById(z).play();
