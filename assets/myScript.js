@@ -114,8 +114,39 @@ function myFunction(event) {
        playAudio(56);
      } else if (x == "iron") {
        playAudio(57);
+     } else if (x == "boots"){
+        playAudio(58);
+     } else if (x == "coat"){
+        playAudio(59);
+     }else if (x == "glasses"){
+        playAudio(60);
+     }else if (x == "gloves"){
+        playAudio(61);
+     }else if (x == "hat"){
+        playAudio(62);
+     }else if (x == "jacket"){
+        playAudio(63);
+     }else if (x == "mask"){
+        playAudio(64);
+     }else if (x == "men-shoes"){
+        playAudio(65);
+     }else if (x == "pants"){
+        playAudio(66);
+     }else if (x == "scarf"){
+        playAudio(67);
+     }else if (x == "shoes"){
+        playAudio(68);
+     }else if (x == "sneakers"){
+        playAudio(69);
+     }else if (x == "sweater"){
+        playAudio(70);
+     }else if (x == "t-shirt"){
+        playAudio(71);
+     }else if (x == "umbrella"){
+        playAudio(72);
      }
-   }
-   function playAudio(z) {
+}
+function playAudio(z) {
      document.getElementById(z).play();
-   }
+}
+   
