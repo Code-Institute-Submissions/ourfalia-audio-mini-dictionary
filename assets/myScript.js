@@ -364,6 +364,40 @@ function myFunction(event) {
         playAudio(181);
      }else if (x == "million"){
         playAudio(182);
+     }else if (x == "come"){
+        playAudio(183);
+     }else if (x == "cook"){
+        playAudio(184);
+     }else if (x == "drink"){
+        playAudio(185);
+     }else if (x == "eat"){
+        playAudio(186);
+     }else if (x == "exercise"){
+        playAudio(187);
+     }else if (x == "go"){
+        playAudio(188);
+     }else if (x == "make"){
+        playAudio(189);
+     }else if (x == "read"){
+        playAudio(190);
+     }else if (x == "sleep"){
+        playAudio(191);
+     }else if (x == "speak"){
+        playAudio(192);
+     }else if (x == "study"){
+        playAudio(193);
+     }else if (x == "swim"){
+        playAudio(194);
+     }else if (x == "to-work"){
+        playAudio(195);
+     }else if (x == "travel"){
+        playAudio(196);
+     }else if (x == "wake-up"){
+        playAudio(197);
+     }else if (x == "watch"){
+        playAudio(198);
+     }else if (x == "write"){
+        playAudio(199);
      }        
 }
 function playAudio(z) {
