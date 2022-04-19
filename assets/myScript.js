@@ -200,7 +200,51 @@ function myFunction(event) {
         playAudio(99);
      }else if (x == "december"){
         playAudio(100);
-     }    
+     }else if (x == "apple"){
+        playAudio(101);
+     }else if (x == "aubergine"){
+        playAudio(102);
+     }else if (x == "banana"){
+        playAudio(103);
+     }else if (x == "beans"){
+        playAudio(104);
+     }else if (x == "beef"){
+        playAudio(105);
+     }else if (x == "bread"){
+        playAudio(106);
+     }else if (x == "butter"){
+        playAudio(107);
+     }else if (x == "carrots"){
+        playAudio(108);
+     }else if (x == "cheese"){
+        playAudio(109);
+     }else if (x == "chicken"){
+        playAudio(110);
+     }else if (x == "coffee"){
+        playAudio(111);
+     }else if (x == "cucumber"){
+        playAudio(112);
+     }else if (x == "grapes"){
+        playAudio(113);
+     }else if (x == "lamb"){
+        playAudio(114);
+     }else if (x == "lettuce"){
+        playAudio(115);
+     }else if (x == "milk"){
+        playAudio(116);
+     }else if (x == "oranges"){
+        playAudio(117);
+     }else if (x == "pomegranate"){
+        playAudio(118);
+     }else if (x == "potatos"){
+        playAudio(119);
+     }else if (x == "strawberry"){
+        playAudio(120);
+     }else if (x == "tea"){
+        playAudio(121);
+     }else if (x == "tomato"){
+        playAudio(122);
+     }              
 }
 function playAudio(z) {
      document.getElementById(z).play();
